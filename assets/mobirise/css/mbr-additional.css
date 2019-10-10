@@ -1188,7 +1188,7 @@ section.lazy-placeholder:after {
 }
 .cid-rElbmf39PK {
   padding-top: 90px;
-  padding-bottom: 90px;
+  padding-bottom: 30px;
   background-color: #ffffff;
 }
 .cid-rElbmf39PK .mbr-iconfont {
@@ -1220,7 +1220,7 @@ section.lazy-placeholder:after {
   border-radius: 3px;
 }
 .cid-rElbmf39PK .google-map {
-  height: 25rem;
+  height: 15rem;
   position: relative;
 }
 .cid-rElbmf39PK .google-map iframe {
